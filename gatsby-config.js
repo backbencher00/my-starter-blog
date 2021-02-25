@@ -3,7 +3,7 @@ module.exports = {
     title: `Unlock Alogrithm`,
     author: {
       name: `Sourabh Singh`,
-      summary: `student at Panjab Uniersity, with majors in Information Technology`,
+      summary: `Student at Panjab Uniersity, with majors in Information Technology`,
     },
     description: `Blog by Lazy Coder.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
