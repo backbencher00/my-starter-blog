@@ -16,7 +16,9 @@ It is the extension of the C language ,most of the higher label language weather
 
 ### Learn Data Structure and Algorithms
 These are the some links to learn DSA from different platform
+
 [Hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
+
 [codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#advanced)
 #### Important topic you should go throught with 
 > - Array
@@ -24,41 +26,45 @@ These are the some links to learn DSA from different platform
 > - Linklist
 > - Tree
 > - BST
-> - Segement(used multiple times in competitive programming)[link](https://youtu.be/FR5d4V7Z9SE)
+> - Segement(used multiple times in competitive programming) [link](https://youtu.be/FR5d4V7Z9SE)
 > - Graph
+
 [DSA-question-sheet-for-practice](https://drive.google.com/file/d/1zItzJ8d69l2ypDJvnLv12N68SibTTQ3D/view?usp=sharing)
 
-### learn STL C++
-[link-to-my-notes](https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
+### Learn STL C++
+
+[link-to-my-notes] (https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
+
 ##### Some Important containers you can have a look and practice 10 problems of each containers to get hands on
 
-> - priority_queue(also known as heap)[link](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
-> - set[link](https://www.geeksforgeeks.org/set-in-cpp-stl/)
-> - unordered_set(hashtable)[link]()
-> - map[link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
-> - unordered_map[link]()
-> - forward_list(linklist)[link](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
-> - list(doubly linklist)[link](https://www.geeksforgeeks.org/list-cpp-stl/)
+> - priority_queue(also known as heap) [link](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+> - set [link](https://www.geeksforgeeks.org/set-in-cpp-stl/)
+> - unordered_set(hashtable) [link]()
+> - map [link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+> - unordered_map [link]()
+> - forward_list(linklist) [link](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
+> - list(doubly linklist) [link](https://www.geeksforgeeks.org/list-cpp-stl/)
 
 #### question practice quetion on containers
 > - Question for practice  on set and map [link](https://drive.google.com/file/d/161UjawImMTDUjdPAj53We_q_DluKsOAF/view?usp=sharing)
-> - question  for practice on heap/priority_queue
+
+> - question  for practice on heap/priority_queue [link](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/1/?sort_by=partially%20solved&p_level=)
 
 ### Important topic for competitive programming
-> - Fundamental Theorem Of Arithmetic And The Division Algorithm
-> - Number theory
-> > -- euclid(imp)
-> >-- Extended euclid
-> >-- Modular multiplicaitve inverse
-> >-- application of extended euclid algorithm
-> >-- Sieve of Eratosthene(imp)
-> >-- segmented Sieve
-> >-- Linear Diophantine Equation
-> >-- Euler's totient function
-> >-- whilson's theorem or factorial modulo
-> >-- Fermat's little theorem 
-> >-- chinese remainder theorem(imp)
-> - Game theory
+> - 1. Fundamental Theorem Of Arithmetic And The Division Algorithm
+> - 2. Number theory
+>  - euclid(imp)
+>  - Extended euclid
+>  - Modular multiplicaitve inverse
+>  - application of extended euclid algorithm
+>  - Sieve of Eratosthene(imp)
+>  - segmented Sieve
+>  - Linear Diophantine Equation
+>  - Euler's totient function
+>  - whilson's theorem or factorial modulo
+>  - Fermat's little theorem 
+>  - chinese remainder theorem(imp)
+> - 3. Game theory
 
 References to all of them [link](https://cp-algorithms.com/)
 
