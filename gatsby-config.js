@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Unlock Alogrithm`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sourabh Singh`,
+      summary: `student at Panjab Uniersity, with majors in Information Technology`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog by Lazy Coder.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sourabhsingh282`,
     },
   },
   plugins: [
