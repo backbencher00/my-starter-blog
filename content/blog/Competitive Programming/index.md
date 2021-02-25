@@ -20,7 +20,7 @@ These are the some links to learn DSA from different platform
 [Hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
 
 [codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#advanced)
-#### Important topic you should go throught with 
+#### Important topics you should go through with 
 > - Array
 > - Queue and Stack
 > - Linklist
@@ -35,38 +35,51 @@ These are the some links to learn DSA from different platform
 
 [link-to-my-notes] (https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
 
-##### Some Important containers you can have a look and practice 10 problems of each containers to get hands on
+##### Important containers you can have a look and practice 10 problems of each containers to get hands on
 
 > - priority_queue(also known as heap) [link](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
 > - set [link](https://www.geeksforgeeks.org/set-in-cpp-stl/)
-> - unordered_set(hashtable) [link]()
+> - unordered_set(hashtable) [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
 > - map [link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
-> - unordered_map [link]()
+> - unordered_map [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
 > - forward_list(linklist) [link](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
 > - list(doubly linklist) [link](https://www.geeksforgeeks.org/list-cpp-stl/)
 
 #### question practice quetion on containers
 > - Question for practice  on set and map [link](https://drive.google.com/file/d/161UjawImMTDUjdPAj53We_q_DluKsOAF/view?usp=sharing)
 
-> - question  for practice on heap/priority_queue [link](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/1/?sort_by=partially%20solved&p_level=)
+> - question  for practice on heap/priority_queue 
+[link]()
 
 ### Important topic for competitive programming
 > - 1. Fundamental Theorem Of Arithmetic And The Division Algorithm
+
 > - 2. Number theory
 >  - euclid(imp)
+
 >  - Extended euclid
+
 >  - Modular multiplicaitve inverse
+
 >  - application of extended euclid algorithm
+
 >  - Sieve of Eratosthene(imp)
+
 >  - segmented Sieve
+
 >  - Linear Diophantine Equation
+
 >  - Euler's totient function
+
 >  - whilson's theorem or factorial modulo
+
 >  - Fermat's little theorem 
+
 >  - chinese remainder theorem(imp)
+
 > - 3. Game theory
 
 References to all of them [link](https://cp-algorithms.com/)
 
 
-### Now practice practice practice......!
+###### Now practice practice practice......!
