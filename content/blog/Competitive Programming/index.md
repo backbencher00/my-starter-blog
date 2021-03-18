@@ -75,7 +75,7 @@ These are the some links to learn DSA from different platform
 
 >  - Fermat's little theorem 
 
->  - chinese remainder theorem(imp)
+>  - [chinese remainder theorem(imp)]()
 
 > - 3. Game theory
 
