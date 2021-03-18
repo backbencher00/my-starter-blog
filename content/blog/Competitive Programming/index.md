@@ -8,11 +8,13 @@ description: "In this Blog I will provide you the best resource in order to beco
 ### Lets choose a programming language. 
 You can have any language c, cpp, python,etc.
 
-But I personally prefer Cpp because of the dirversity of this language and the best library it can offer to write any alorithm
+But I personally prefer Cpp because of the dirversity of this language and the best library it can offer to write any alorithms
 
 It is one of the fastest language because it is closest to the compiler
 
-It is the extension of the C language ,most of the higher label language weather that are scripting or non scripting language are written in C
+It is the extension of the C language, most of the higher lavel languages weather that are scripting or non-scripting language are written in C
+
+To start a journy of you competitive coding you can go to eather codechef or in codeforce or start solving the problems from beginner level, there are contest on of the platform to increase your rating you need to give the contest If you are beginner start with codechef but do give contest on both the platform I have also mad a blog to get start on both the platform to fasten your thinking skills in for problem solving i would prefer to solve atleast 75 question of Beginner, level 50 of easy, 30 of medium, and 20 hard level on codechef
 
 ## Learn Data Structure and Algorithms
 
