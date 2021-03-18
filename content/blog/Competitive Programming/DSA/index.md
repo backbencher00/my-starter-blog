@@ -1,7 +1,7 @@
 ---
-title: Tutorial on Datastructures and algorithms
+title: TUTORIAL ON DSA
 date: "2020-12-10T22:12:03.284Z"
-description: "Lets start with codechef"
+description: "Let with data structure"
 ---
 ## A breaf introduction of data structure and algorithms
 
