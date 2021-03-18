@@ -16,7 +16,9 @@ Many student have the confusion that in company interview what they gonna ask so
 and your competitive programming skills make you think to solve the problem related to data structure
 in this blog I will provide the best tracked  content so that you cannot search again and again 
 
->In sort CP = Resume sortlisting
+In sort
+
+>CP = Resume sortlisting
 
 >DSA = coding  Interview 
 
@@ -30,6 +32,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 >Non-primitive Data structure
 
 ### The primitive data Structure
+
     >int(integer type)
 
     >char(character type)
@@ -37,6 +40,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
     >float(float type)
 
     >(pointer)
+
 ### Non -primitive data srtructure
 
     >linear(these are the data structure in which one element is connect to another in linear fashion)
