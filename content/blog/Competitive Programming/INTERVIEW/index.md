@@ -1,5 +1,5 @@
 ---
-title: LAST WEEK INTERVIEW PREPARATION
+title: Last week interview preparation
 date: "2020-12-01T22:12:03.284Z"
 description: "In this Blog I will provide you the best resources which will make you ready for the coding interview i think you all want to get placed in product based company so lets get started..."
 ---
