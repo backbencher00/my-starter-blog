@@ -19,15 +19,23 @@ It is the extension of the C language ,most of the higher label language weather
 Learn the data structure and algorithm and go through with every data structure practice question learn to implement them practically 
 
 #### Important Topics you should go through with 
+
 > - Array
+
 > - Queue and Stack
+
 > - Linklist
+
 > - Tree
+
 > - BST
+
 > - Segement(used multiple times in competitive programming) [link](https://youtu.be/FR5d4V7Z9SE)
+
 > - Graph
 
 ### Learn STL C++
+
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators.
 [link-to-my-notes] (https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
 
@@ -43,14 +51,21 @@ STL has four components
  These are the important containers learn to implement them by practice question on each container i have also provided the link of tutorials to learnt them 
 
 > - priority_queue(also known as heap) [link](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+
 > - set [link](https://www.geeksforgeeks.org/set-in-cpp-stl/)
+
 > - unordered_set(hashtable) [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
+
 > - map [link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+
 > - unordered_map [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
+
 > - forward_list(linklist) [link](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
+
 > - list(doubly linklist) [link](https://www.geeksforgeeks.org/list-cpp-stl/)
 
 #### question practice quetion on containers
+
 > - Question for practice  on set and map [link](https://drive.google.com/file/d/161UjawImMTDUjdPAj53We_q_DluKsOAF/view?usp=sharing)
 
 > - question  for practice on heap/priority_queue [link](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
@@ -84,6 +99,7 @@ STL has four components
 >  - [chinese remainder theorem(imp)](https://www.youtube.com/watch?v=vPum8EqmFz0&t=397s)
 
 > - 3. [Game theory](https://www.youtube.com/watch?v=GPhZpgPOa1U&t=3346s)
+
 
 References to all of them [link](https://cp-algorithms.com/) this is the website where you will get all the cpp advance algorithm you directly see the implementation from here 
 
