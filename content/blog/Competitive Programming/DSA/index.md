@@ -23,7 +23,7 @@ in this blog I will provide the best tracked  content so that you cannot search 
 To learn these content dont pay 10k or any amount they'll just provide the same content in the ordered manner thats it 
 Dont spend to much time in thinking the solution and approach more that 30 minutes and if you think you be able to think the approach then try to code it but do not involve more then 1 hours  if you getting any error, just see the solution where and what mistake you are doing and if you dont able to think the approach dont be demotivated may be you does not spend much time in getting these concept you'll learn eventually  you guys dont know but i took whole day just to write hello world on hackerrank 1st problem and here i am now 
 
-## there are two type of data structure
+## There are two type of data structure
 
 >Primitive Data structure
 
@@ -38,23 +38,24 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
     >(pointer)
 ### Non -primitive data srtructure
+
     >linear(these are the data structure in which one element is connect to another in linear fashion)
 
-      >Array
+        >Array
 
-      >linked list
+        >linked list
 
-      >stack and queues
+        >stack and queues
 
     >non linear(when one element is connected to 2 or more than 2 element )
 
-       >trees 
+        >trees 
 
-       >graph  
+        >graph  
 
-Major operation 
+>Major operation 
 
- to learn how to implement any data structure linear or non- linear you need to learn 5 basic operation that should be your initial goal before going to the problems of any of the data structure
+ To learn how to implement any data structure linear or non- linear you need to learn 5 basic operation that should be your initial goal before going to the problems of any of the data structure
 
  >searching
 
