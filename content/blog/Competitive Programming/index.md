@@ -16,6 +16,31 @@ It is the extension of the C language, most of the higher lavel languages weathe
 
 To start a journy of you competitive coding you can go to eather codechef or in codeforce or start solving the problems from beginner level, there are contest on of the platform to increase your rating you need to give the contest If you are beginner start with codechef but do give contest on both the platform I have also mad a blog to get start on both the platform to fasten your thinking skills in for problem solving i would prefer to solve atleast 75 question of Beginner, level 50 of easy, 30 of medium, and 20 hard level on codechef
 
+There are three phase of problem solving 
+
+1-> Read the problem carefully and understand them and dont be hurry
+
+2-> check the constraint very very carefully because because they will give you a good hint 
+
+3-> start thinking about the solution(brute force approach) in your mind a basic approach
+
+4-> write down the algorithm that cam in your mind
+
+5-> get a dry run in your copy and try to pass the given test case given in the problem
+
+6-> code it
+
+7-> Try to further optimise it, but dont give so much time some time brute force approach is the best approach
+
+8->you can also see if there is a possibilty where you can minimize the number of iteration by giving some condition in a form of if-else statement inside the loop or by using some mathematical  expression
+
+9 -> Dont be demotivate if your test cases is not passing or you are not able to think the solution
+
+10-> Last see the solution in which we engineers are good and dont just see it brother you need to code it and compile it 
+
+
+
+
 ## Learn Data Structure and Algorithms
 
 Learn the data structure and algorithm and go through with every data structure practice question learn to implement them practically 
