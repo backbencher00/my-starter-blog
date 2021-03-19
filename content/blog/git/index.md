@@ -21,16 +21,18 @@ Configuring users information used across all
 local repositories
 
 set a name that is identifiable for credit when review version history
+
 ```javascript
    git config --global user.name ""[firstname lastname]
 ```
 
 Set an email address that will be associated with each history marker
+
 ```javascript
    git config --global user.email ""[firstname lastname]
 ```
-Set automatic command line coloring for Git for ease reviewing
 
+Set automatic command line coloring for Git for ease reviewing
 
 ```javascript
    git config --global color.ui auto
@@ -142,22 +144,26 @@ show all commits in the current branch's history
 Examine logs, diffs and object information
 
 Show the commit on history for the currently active branch
+
 ```javascript
    git log
 
 ```
 
 Show the commits on branchA that are not on branchB
+
 ```javascript
    git log branchB..branchA
 
 ```
 
 Show the commit that changed file, even across renames
+
 ```javascript
    git log --follow [file]
 
 ```
+
  show the diff of what is in branchA that is not in branchB
 ```javascript
    git diff branchB...branchA
@@ -199,6 +205,7 @@ show all commit logs with indication of any paths that moves
 Preventing unintentional staging or commmiting of files
 
 Save a file with desired pattern as .gitnore with either direct string matches or wild card globs
+
 ```javascript
     logs/
     *.notes
@@ -244,6 +251,7 @@ Transit local branch commit to the remote repository branch
 ```
 
 Fetch and merge any commits from the tracking remote branch
+
 ```javascript
    git pull
 

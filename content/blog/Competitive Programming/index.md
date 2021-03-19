@@ -1,8 +1,7 @@
 ---
 title: Competitive Programming
 date: "2020-12-01T22:12:03.284Z"
-description: "In this Blog I will provide you the best resource in order to become good programmer \n
-  so lets get started..."
+description: " CP is tough when you dont Know how to start, In this Blog I will provide you the best resource in order to become good programmer so lets get started..!"
 ---
 
 ### Lets choose a programming language. 
@@ -37,8 +36,6 @@ There are three phase of problem solving
 9 -> Dont be demotivate if your test cases is not passing or you are not able to think the solution
 
 10-> Last see the solution in which we engineers are good and dont just see it brother you need to code it and compile it 
-
-
 
 
 ## Learn Data Structure and Algorithms

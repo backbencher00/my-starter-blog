@@ -1,8 +1,7 @@
 ---
 title: Data Structure and Algorithms
 date: "2020-12-10T22:12:03.284Z"
-description: "Student pay lot of money to get online course of Data Structures and Algorithms even I too had paid for it,  
-But you guys won't realize that it is just a course which contains arranged content which is hard to find on internet you will get plenty of content to learn but not in arranged manner, just for you guys I have made a small blog which contain a tutorials, questions, and editorial of every topic in a arranged fashion "
+description: "I have made a small blog which contain a tutorials, questions for practice, and editorial of every topic in a arranged fashion  so that  you will get arranged content and you dont have to pay for online DSA courses"
 ---
 ## A breaf introduction of data structure and algorithms
 
