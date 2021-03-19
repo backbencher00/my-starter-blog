@@ -208,7 +208,6 @@ show all commit logs with indication of any paths that moves
 Preventing unintentional staging or commmiting of files
 
 Save a file with desired pattern as .gitnore with either direct string matches or wild card globs
-
 ```javascript
     logs/
     *.notes
