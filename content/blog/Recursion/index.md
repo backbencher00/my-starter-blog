@@ -3,40 +3,37 @@ title: A day with Recursion
 date: "2020-12-10T22:12:03.284Z"
 description: "Watch the _Inception_ if you haven't watch it yet because this is something you need to watch before going to read this blog and my 90% work is done to make you understand what is recursion ? "
 ---
- ## PMI (principle of mathematical induction)
+ ### PMI (principle of mathematical induction)
+Lets have a function f(n)
 
-    Lets have a function f(n)
+- 1 for k==1 (answer is known)
 
-    - 1 for k==1 (answer is known)
+- 2 for f(k) we assume it is true;
 
-    - 2 for f(k) we assume it is true;
-
-    - 3 for (k+1) we prove it is true using above two state
+- 3 for (k+1) we prove it is true using above two state
 
 so Recursion is based on this particular principle
 
-## Bookish defination
-
+### Bookish defination
 Function calling Itself directly or indirectly
 
-## Recursion in real life
+### Recursion in real life
+-  1 Base case (It  is a smallest problem of the bigger problem )
 
- -  1 Base case (It  is a smallest problem of the bigger problem )
-
- -  2 Assumption / Recursion case (most important)
+-  2 Assumption / Recursion case (most important)
 
     In this we break the above problem into smaller subproblem of same type and then assume smaller problem will solve by recursion you need to assume this thing and dont care about how thing are working (matlb bilkul dimaag ni lagana tabhi problem solve hogi) 
        
- -  3 find the answer
+-  3 find the answer
      
 In simple terms 
- - write the code 
- - then see the answer
- - if it is getting correct then see how it is giving answer :( )
- - dont even try to find how things are working before getting the correct answer
+- write the code 
+- then see the answer
+- if it is getting correct then see how it is giving answer :( )
+- dont even try to find how things are working before getting the correct answer
  
 
-## recursive program to print the number in ascending order
+### Recursive program to print the number in ascending order
 ```javascript
    void f(int n){
 
