@@ -1,18 +1,23 @@
 ---
-title: A week with Recursion
+title: A day with Recursion
 date: "2020-12-10T22:12:03.284Z"
-description: "I have made a small blog which contain a tutorials, questions for practice, and editorial of every topic in a arranged fashion  so that  you will get arranged content and you dont have to pay for online DSA courses"
+description: "Watch the _Inception_ if you haven't watch it yet because this is something you need to watch before going to read this blog and my 90% work is done to make you understand what is recursion ? "
 ---
- PMI (principle of mathematical induction)
-    Lets have  a function f(n)
-    1 for k==1 (answer is known)
-    2 for f(k) we assume it is true;
-    3 for (k+1) we prove it is true using above two state
-so recursion is base on this perticular principal
+ ## PMI (principle of mathematical induction)
+
+    Lets have a function f(n)
+
+    - 1 for k==1 (answer is known)
+
+    - 2 for f(k) we assume it is true;
+
+    - 3 for (k+1) we prove it is true using above two state
+
+so Recursion is based on this particular principle
 
 ## Bookish defination
 
-Function calling itself
+Function calling Itself directly or indirectly
 
 ## Recursion in real life
 
@@ -20,7 +25,7 @@ Function calling itself
 
  -  2 Assumption / Recursion case (most important)
 
-        In this we break the above problem into smaller subproblem of same type and then assume smaller problem will solve by recursion you need to assume this thing and dont care about how thing are working (matlb bilkul dimaag ni lagana tabhi problem solve hogi) 
+    In this we break the above problem into smaller subproblem of same type and then assume smaller problem will solve by recursion you need to assume this thing and dont care about how thing are working (matlb bilkul dimaag ni lagana tabhi problem solve hogi) 
        
  -  3 find the answer
      
