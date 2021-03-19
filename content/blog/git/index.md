@@ -13,7 +13,7 @@ description: "Git is the free and open source distributed version control system
 
  For Linux and Solaris platforms, the latest release is available on the official Git web site
 
- ## - [Git for All platforms](http://git-scm.com)
+ - [Git for All platforms](http://git-scm.com)
  
  ## Setup
 
@@ -21,17 +21,14 @@ Configuring users information used across all
 local repositories
 
 set a name that is identifiable for credit when review version history
-
 ```javascript
    git config --global user.name ""[firstname lastname]
 ```
 
 Set an email address that will be associated with each history marker
-
 ```javascript
    git config --global user.email ""[firstname lastname]
 ```
-
 Set automatic command line coloring for Git for ease reviewing
 
 
@@ -136,7 +133,6 @@ Merge the specified branch's history into the current one
 ```
 
 show all commits in the current branch's history
-
 ```javascript
    git log
 
@@ -146,34 +142,29 @@ show all commits in the current branch's history
 Examine logs, diffs and object information
 
 Show the commit on history for the currently active branch
-
 ```javascript
    git log
 
 ```
 
 Show the commits on branchA that are not on branchB
-
 ```javascript
    git log branchB..branchA
 
 ```
 
 Show the commit that changed file, even across renames
-
 ```javascript
    git log --follow [file]
 
 ```
  show the diff of what is in branchA that is not in branchB
-
 ```javascript
    git diff branchB...branchA
 
 ```
 
 shows any object in Git in human-readable format
-
 ```javascript
    git show [SHA]
 
