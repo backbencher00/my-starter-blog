@@ -1,6 +1,6 @@
 ---
 title: Git Cheat Sheet
-date: "2020-12-10T22:12:03.284Z"
+date: "2021-12-15T22:12:03.284Z"
 description: "Git is the free and open source distributed version control system that's responsible for everything in github related that happens locally on your computer. The cheat sheet features the most important and commonly used Git commands for easy reference"
 ---
 
