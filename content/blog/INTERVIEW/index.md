@@ -14,6 +14,8 @@ See different companies have different coding round and  most of them will check
 
 >[playlist of 250 major interview problem](https://www.youtube.com/watch?v=2C7WrpgnLDw&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
 
+>[company wise list of question appeared in top companies](https://github.com/twowaits/SDE-Interview-Questions)
+
 All product based companies asks similar question which generally asked in same of different companies so go through each and every question you will find on youtube
 Also go through the above playlist and the whole channel [Tech dose](https://www.youtube.com/c/TECHDOSE4u/featured) this guy is so much wonderfull in explaining the approach of the problem
 
