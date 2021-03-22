@@ -1,6 +1,6 @@
 ---
 title: Competitive Programming
-date: "2020-12-01T22:12:03.284Z"
+date: "2021-01-05T22:11:03.214Z"
 description: " CP is tough when you dont Know how to start, In this Blog I will provide you the best resource in order to become good programmer so lets get started..!"
 ---
 
