@@ -1,6 +1,6 @@
 ---
 title: Data Structure and Algorithms
-date: "2020-12-10T22:12:03.284Z"
+date: "2020-11-15T22:12:03.284Z"
 description: "I have made a small blog which contain a tutorials, questions for practice, and editorial of every topic in a arranged fashion  so that  you will get arranged content and you dont have to pay for online DSA courses"
 ---
 ## A breaf introduction of data structure and algorithms
