@@ -338,11 +338,16 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 >[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
  
-The journey still not end you can have the codechef learning series  of data structure which is free of cost  after doing question  of this blog
+
+## Hashing (Important)
+### Build your own search engine By Codechef
+
+- [Tutorial](https://unacademy.com/class/build-your-own-search-application-basics-of-hashing/ZBULJ66Q)
+ 
+ 
 
 [this is a link of codechef DSA learning series ](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa)
 
-## Hashing (Important)
-### buile your own search engine
+The journey still not end you can have the codechef learning series  of data structure which is free of cost  after doing question  of this blog.
+I would Like to thanks [Codechef](https://www.codechef.com/), [Unacademycommunity](https://unacademy.com/), Tech Dose youtube channel and [Coding block](https://codingblocks.com/) and [finally GeekforGeeks](https://practice.geeksforgeeks.org/) that they are providing such a nice content in free of cost , I have only combined these content in one place so a person no need to go anywhere. 
 
-[Tutorial](https://unacademy.com/class/build-your-own-search-application-basics-of-hashing/ZBULJ66Q)
