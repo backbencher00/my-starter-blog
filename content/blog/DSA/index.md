@@ -233,6 +233,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ## Tree
 - [Tree Playist of practice questions](https://www.youtube.com/watch?v=K2ybI-GEHSY&list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
+- [Problem solving on BFS and DFS](https://www.youtube.com/watch?v=3CvN6to19r8)
 
 >[Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 
