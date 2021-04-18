@@ -73,7 +73,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ## Array 
 
-[Introductory Video Link](https://www.youtube.com/watch?v=iXrmm73UQb8)
+- [Introductory Video Link](https://www.youtube.com/watch?v=iXrmm73UQb8)
 
 ### practice the below question
 
@@ -107,7 +107,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ## STRINGS
 
->[Introductory Video Link](https://www.youtube.com/watch?v=W8hPsBquD6Y)
+- [Introductory Video Link](https://www.youtube.com/watch?v=W8hPsBquD6Y)
 
 >[Remove Consecutive Characters ](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 
@@ -161,7 +161,9 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ## stacks and queues
 
->[Introductory Video Link]()
+- [Introductory Video Link](https://www.youtube.com/watch?v=Y4Y6vJSnAlc)
+
+- [Problems on stack and queues](https://www.youtube.com/watch?v=sDKpIO2HGq0&list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
 
 >[Queue Reversal ](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
 
@@ -193,7 +195,9 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ## Link list
 
-[introduction content]()
+- [Starting with linkedlist](https://www.youtube.com/watch?v=zvup3Q0UMWg)
+
+- [problem solving on linkedlist](https://www.youtube.com/watch?v=9t_IcqgsJdQ)
 
 >[Delete a Node in Single Linked List ](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
 
@@ -228,6 +232,7 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 >[Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 
 ## Tree
+- [Tree Playist of practice questions](https://www.youtube.com/watch?v=K2ybI-GEHSY&list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
 
 >[Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 
@@ -295,7 +300,16 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 >[Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 
+###  Segment Tree
+- [Tutorial of segment tree Very very important](https://www.youtube.com/watch?v=FR5d4V7Z9SE)
+
 ## GRAPH
+- [First tutorial with graph](https://www.youtube.com/watch?v=0-KgyzSTANI)
+- [Introduction tutorial on graph](https://www.youtube.com/watch?v=MTsvJUwZdS4)
+- [Introduction tutorial on graph](https://www.youtube.com/watch?v=TKuFLdpgmKQ)
+- [Graph Interview problem](https://www.youtube.com/watch?v=AKKKvZGaG7I)
+- [Problem Solving on graph](https://www.youtube.com/watch?v=AKKKvZGaG7I)
+- [Types of graph and question solution by techdpse](https://www.youtube.com/watch?v=caAVlibiTkY&list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5)
 
 >[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 
