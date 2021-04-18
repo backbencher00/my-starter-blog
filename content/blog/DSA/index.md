@@ -327,3 +327,7 @@ The journey still not end you can have the codechef learning series  of data str
 
 [this is a link of codechef DSA learning series ](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa)
 
+## Hashing (Important)
+### buile your own search engine
+
+[Tutorial](https://unacademy.com/class/build-your-own-search-application-basics-of-hashing/ZBULJ66Q)
