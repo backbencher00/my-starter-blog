@@ -10,23 +10,27 @@ TOP Backtracking Problem :
 
 - Permutation
 ```cpp
+#include<bits/stdc++.h>
+using namespace std;
 void permutation(char *arr, int i)
 {
-	if(arr[i]=='\0'){
-		cout<<arr<<endl;
-	
-		return;
-	}
-	for(int j=i;arr[j]!='\0';j++){
-
-		swap(arr[j], arr[i]);//we are trying to solve the problem we swap it 
-		permutation(arr, i+1);
-        //once we come back we swap it again just to undo the changes because
-        //string is passed by reference it will effect all the character in the string
-		swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery this
-                           // is know as backtracking now it will give the correct answer.
-		
-	}
+        if(arr[i]=='\0'){
+	    cout<<arr<<endl;
+        return;
+        }
+        for(int j=i;arr[j]!='\0';j++){
+            swap(arr[j], arr[i]);//we are trying to solve the problem we swap it 
+	        permutation(arr, i+1);
+            //once we come back we swap it again just to undo the changes because string is passed
+			// by reference it will effect all the character in the string
+	        swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery
+			                    // this is know as backtracking now it will give the correct answer.
+	   }
+}
+int main(){
+	char c[100];
+	cin>>c;
+	permutation(c, 0);
 }
 ```
 - RateInMaze
