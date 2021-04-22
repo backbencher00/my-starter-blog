@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
+    title: `ALGORITHM DECURSED`,
     author: {
       name: `Sourabh Singh`,
-      summary: ` ,student of Panjab Uniersity, with major in Information Technology`,
+      summary: `Student at Panjab University, with major in Information Technology`,
     },
     description: `Blog by Lazy Coder.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
