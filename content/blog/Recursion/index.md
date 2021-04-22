@@ -116,32 +116,5 @@ void permutation(char *arr, int i)
 	}
 }
 ```
-Now by running this code you guys are thinking that why this code is not giving the correct answer
-Now there is a question what is backtracking ?
-## Backtracking :
-when you go for a house for robbery and you opened lockers to rob while return you will close all the locker so that no trace of theft left and this thing is known as backtracking.
-In simple word while returning from robbery he will undo all the things
-
-```cpp
-void permutation(char *arr, int i)
-{
-	if(arr[i]=='\0'){
-		cout<<arr<<endl;
-	
-		return;
-	}
-	for(int j=i;arr[j]!='\0';j++){
-
-		swap(arr[j], arr[i]);//we are trying to solve the problem we swap it 
-		permutation(arr, i+1);
-        //once we come back we swap it again just to undo the changes because string is passed by reference it will effect all the character in the string
-		swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery this is know as backtracking now it will give the correct answer.
-		
-	}
-}
-```
-TOP Backtracking Problem :
-- RateInMaze
-- N-Queen
-- Suduko solver
-
+Now by running this code you guys are thinking that why this code is not giving the correct answer for this we need to learn the concept of back tracking.
+Now there is a question what is backtracking ? see my backtracking blog:)
