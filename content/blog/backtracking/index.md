@@ -9,7 +9,6 @@ In simple word while returning from robbery he will undo all the things!"
 TOP Backtracking Problem :
 
 - Permutation
-```CPP
 ```cpp
 void permutation(char *arr, int i)
 {
@@ -22,13 +21,16 @@ void permutation(char *arr, int i)
 
 		swap(arr[j], arr[i]);//we are trying to solve the problem we swap it 
 		permutation(arr, i+1);
-        //once we come back we swap it again just to undo the changes because string is passed by reference it will effect all the character in the string
-		swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery this is know as backtracking now it will give the correct answer.
+        //once we come back we swap it again just to undo the changes because
+        //string is passed by reference it will effect all the character in the string
+		swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery this
+                           // is know as backtracking now it will give the correct answer.
 		
 	}
 }
 ```
 - RateInMaze
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -62,20 +64,16 @@ bool ratinmaze(char maze[][5],int i,int j, int solution[][4], int n, int m){
 
 }
 int main() {
-	//  int n,m;
-	// cin>>n>>m;
+ 
     char maze[4][5]={"OOOO","OOXX","OOOO","XXOO"};
-	// for(int i=0;i<n;i++){
-	// 	for(int j=0;j<m;j++){
-	// 		cin>>maze[i][j];
-	// 	}
-	// }
+	 
     int solution[4][4];
 	ratinmaze(maze, 0,0,solution, 4,4);
 	return 0;
 }
 ```
 - N-Queen
+
 ```CPP
 #include<bits/stdc++.h>
 using namespace std;
