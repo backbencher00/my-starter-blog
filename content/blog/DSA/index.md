@@ -14,6 +14,7 @@ It teaches you how to think?. By building your CP profile you are increasing you
 
 Data structure is something you learn about how to handle and organize the different data structure.
 How we can allocate different type of memory in different data structure?
+
 Many student have confusion that in company interview what they gonna ask so they will ask the data structure questionS
 and your competitive programming skills make you think to solve the problem related to data structure.
 In this blog, I will provide the best tracked content so that you don't have to search again and again. 
@@ -25,7 +26,9 @@ In this blog, I will provide the best tracked content so that you don't have to 
 
 For learning these content, Don't pay 10k or any amount they'll just provide the same content in the ordered manner.  
 
-Don't spend to much time in thinking the solution and approach more that 30 minutes and if you think you be able to think the approach then try to code it, but don't involve more then 1 hours  if you getting any error, just see the solution where and what mistake you are doing and if you dont able to think the approach dont be demotivate, may be you does not spend much time in getting these concept you'll learn eventually you guys don't know but I took whole day just to write hello world on hackerrank 1st problem and here I am now 
+Don't spend to much time in thinking the solution and approach more that 30 minutes and if you think you be able to think the approach then try to code it, but don't involve more then 1 hours  if you getting any error, just see the solution where and what mistake you are doing and if you dont able to think the approach dont be demotivate, may be you does not spend much time in getting these concept you'll learn eventually.
+
+You guys don't know but I took whole day just to write hello world on hackerrank 1st problem and here I am now 
 
 ## Types of Data structure
 
@@ -64,7 +67,7 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 
 ## Array 
 
-- [Introductory Video Link](https://www.youtube.com/watch?v=iXrmm73UQb8)
+> [Introductory Video Link](https://www.youtube.com/watch?v=iXrmm73UQb8)
 
 ### Practice the below question
 - [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) 
@@ -84,8 +87,9 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 
 ## STRINGS
 
-- [Introductory Video Link](https://www.youtube.com/watch?v=W8hPsBquD6Y)
+> [Introductory Video Link](https://www.youtube.com/watch?v=W8hPsBquD6Y)
 
+### Practice Question
 - [Remove Consecutive Characters ](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 - [Check String](https://practice.geeksforgeeks.org/problems/check-string1818/1)
 - [Nearest multiple of 10](https://practice.geeksforgeeks.org/problems/nearest-multiple-of-102437/1)
@@ -114,7 +118,9 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 
 ## Stacks and Queues
 
-- [Introductory Video Link](https://www.youtube.com/watch?v=Y4Y6vJSnAlc)
+> [Introductory Video Link](https://www.youtube.com/watch?v=Y4Y6vJSnAlc)
+
+### Practice Question
 - [Problems on stack and queues](https://www.youtube.com/watch?v=sDKpIO2HGq0&list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
 - [Queue Reversal ](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
@@ -133,8 +139,10 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 
 ## LinkList
 
-- [Starting with linkedlist](https://www.youtube.com/watch?v=zvup3Q0UMWg)
-- [problem solving on linkedlist](https://www.youtube.com/watch?v=9t_IcqgsJdQ)
+> [Starting with linkedlist](https://www.youtube.com/watch?v=zvup3Q0UMWg)
+> [problem solving on linkedlist](https://www.youtube.com/watch?v=9t_IcqgsJdQ)
+
+### Practice Question
 - [Delete a Node in Single Linked List ](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
 - [Count nodes of linked list](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1)
 - [Node at a given index in linked list](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1)
@@ -153,9 +161,10 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 - [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 
 ## Tree
-- [Tree Playist of practice questions](https://www.youtube.com/watch?v=K2ybI-GEHSY&list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
-- [Problem solving on BFS and DFS](https://www.youtube.com/watch?v=3CvN6to19r8)
+> [Tree Playist of practice questions](https://www.youtube.com/watch?v=K2ybI-GEHSY&list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
+> [Problem solving on BFS and DFS](https://www.youtube.com/watch?v=3CvN6to19r8)
 
+### Practice Question
 - [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 - [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
@@ -175,7 +184,7 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 - [Duplicate subtree in Binary Tree ](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
 - [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1)
 
-## BST
+### BST Practice Question
 
 - [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
 - [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
@@ -193,16 +202,17 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 - [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 
 ###  Segment Tree
-- [Tutorial of segment tree Very very important](https://www.youtube.com/watch?v=FR5d4V7Z9SE)
+> [Tutorial of segment tree Very very important](https://www.youtube.com/watch?v=FR5d4V7Z9SE)
 
 ## GRAPH
-- [First tutorial with graph](https://www.youtube.com/watch?v=0-KgyzSTANI)
-- [Introduction tutorial on graph](https://www.youtube.com/watch?v=MTsvJUwZdS4)
-- [Introduction tutorial on graph](https://www.youtube.com/watch?v=TKuFLdpgmKQ)
-- [Graph Interview problem](https://www.youtube.com/watch?v=AKKKvZGaG7I)
-- [Problem Solving on graph](https://www.youtube.com/watch?v=AKKKvZGaG7I)
-- [Types of graph and question solution by techdpse](https://www.youtube.com/watch?v=caAVlibiTkY&list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5)
+> [First tutorial with graph](https://www.youtube.com/watch?v=0-KgyzSTANI)
+> [Introduction tutorial on graph](https://www.youtube.com/watch?v=MTsvJUwZdS4)
+> [Introduction tutorial on graph](https://www.youtube.com/watch?v=TKuFLdpgmKQ)
+> [Graph Interview problem](https://www.youtube.com/watch?v=AKKKvZGaG7I)
+> [Problem Solving on graph](https://www.youtube.com/watch?v=AKKKvZGaG7I)
+> [Types of graph and question solution by techdpse](https://www.youtube.com/watch?v=caAVlibiTkY&list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5)
 
+### Practice Question
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 - [DFS of Graph ](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 - [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
@@ -218,10 +228,7 @@ To implement any data structure linear/non-linear you need to learn FIVE basic o
 - [Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
  
 
-## Hashing (Important)
-### Build your own search engine By Codechef
-
-- [Tutorial](https://unacademy.com/class/build-your-own-search-application-basics-of-hashing/ZBULJ66Q)
+> [Tutorial](https://unacademy.com/class/build-your-own-search-application-basics-of-hashing/ZBULJ66Q)
  
 
 [This is a link of codechef DSA learning series ](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa)

@@ -3,8 +3,11 @@ title: Git Cheat Sheet
 date: "2021-01-18T22:12:03.284Z"
 description: "Git is the free and open source distributed version control system that's responsible for everything in github related that happens locally on your computer. The cheat sheet features the most important and commonly used Git commands for easy reference"
 ---
+![photo](roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 
-# Installation & Guis
+It is the modern version control system
+Git is a mature, actively maintained open source project originally developed by Linus Torvalds, the famous creator of the Linux OS kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
+# Installation
  with the platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest release if the command line tool while providing  a grapical user interface for day-to-day interaction, review, repository synchronization
 
  - [GitHub for Window](http://windows.github.com)
