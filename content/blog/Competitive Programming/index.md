@@ -6,7 +6,7 @@ description: " CP is tough when you dont Know how to start, In this Blog I will 
 ![photo](mitchell-luo-zBOWYNqOanc-unsplash.jpg)
 
 
-### Choose a programming language. 
+### Choose a Programming language
 You can have any language c, cpp, python,etc.
 
 But I personally prefer C++ because of the dirversity of this language and the best library it can offer to write any alorithms
@@ -43,16 +43,16 @@ Learn the data structure and algorithm and go through with every data structure 
 - Linklist
 - Tree
 - BST
-- Segement(used multiple times in competitive programming) [link](https://youtu.be/FR5d4V7Z9SE)
+- [Segement(used multiple times in competitive programming)](https://youtu.be/FR5d4V7Z9SE)
 - Graph
 
 ### Learn STL C++
 
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators.
 
-[link-to-my-notes] (https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
+[link-to-my-notes](https://docs.google.com/document/d/1u4vM0wm5YjGiSmBvtDtX2ZXjZK9eBxKgCvoLT907K5c/edit?usp=sharing)
 
-STL has four components
+>STL has four components
 
 - Algorithms
 - Containers
@@ -62,17 +62,18 @@ STL has four components
 ##### Containers
 
  These are the important containers learn to implement them by practice question on each container i have also provided the link of tutorials to learnt them 
- - priority_queue(also known as heap) [link](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
- - set [link](https://www.geeksforgeeks.org/set-in-cpp-stl/)
- - unordered_set(hashtable) [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
- - map [link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
- - unordered_map [link](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
- - forward_list(linklist) [link](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
- - list(doubly linklist) [link](https://www.geeksforgeeks.org/list-cpp-stl/)
+ - [priority_queue(also known as heap)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+ - [set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
+ - [unordered_set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)(hashtable)
+ - [map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+ - [unordered_map](geeksforgeeks.org/unordered_map-in-cpp-stl/)
+ - [forward_list](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)(linklist) 
+
+ - [list](https://www.geeksforgeeks.org/list-cpp-stl/)(doubly linklist)
 
 #### question practice quetion on containers
- - Question for practice  on set and map [link](https://drive.google.com/file/d/161UjawImMTDUjdPAj53We_q_DluKsOAF/view?usp=sharing)
- - Question for practice on heap/priority_queue [link](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
+ - [Question for practice on set and map](https://drive.google.com/file/d/161UjawImMTDUjdPAj53We_q_DluKsOAF/view?usp=sharing)
+ - [Question for practice on heap/priority_queue](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
 
 ### Important topic for competitive programming
 
