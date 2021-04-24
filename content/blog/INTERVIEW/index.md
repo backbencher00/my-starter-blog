@@ -4,6 +4,7 @@ date: "2021-03-12T22:11:03.214Z"
 description: "In this Blog I will provide you the best resources which will make you ready for the coding interview I think you all want to get placed in product based company so lets get started. !"
 ---
 ![photo of a dog with pc](cookie-the-pom-gySMaocSdqs-unsplash.jpg)
+
 Different companies have different coding rounds and most of them check your problem solving skills and your knowledge of Data Structures and Algorithms. I have read the book [Cracking The Coding Interview](https://www.amazon.in/Cracking-the-Coding-Interview/dp/0984782869/ref=pd_lpo_14_t_0/257-1348683-7477109?_encoding=UTF8&pd_rd_i=0984782869&pd_rd_r=a88966b5-e834-47ca-a8bf-0478ec8beb56&pd_rd_w=pAAzj&pd_rd_wg=6kFSB&pf_rd_p=8fa1f3a8-c3ee-4cde-8295-5699918f5887&pf_rd_r=J4E4KVTWHSD2SH01CHMM&psc=1&refRID=J4E4KVTWHSD2SH01CHMM) which is a really good book for coding interview preparation.
 
 If you have more then 2 weeks for your coding interview preparation and you have to already done Data Structures and problem solving, then you should definitely go for this book.
