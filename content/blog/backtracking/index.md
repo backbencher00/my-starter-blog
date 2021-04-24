@@ -4,11 +4,24 @@ date: "2021-01-07T22:11:03.214Z"
 description: "When you go in a house for robbery and you opened lockers to rob, then while return you have to close all the locker so that no one can trace that you theft and this thing is known as backtracking.
 In simple word while returning from robbery he will undo all the things!"
 ---
-## Backtracking
- 
-TOP Backtracking Problem :
+![photo](ashley-batz-betmVWGYcLY-unsplash.jpg)
+
+## Introduction
+This is a brute force approach of problem soling, means you have try out all possible solution and pick desired solution
+We use Backtracking when you have multiple solution and you want all those solution 
+for example: Suppose you have two boys and one girl and the are three chair  we have to arrange them in three chair how many ways we can arrange them?
+answer= n!. Now we want all the solution and here when backtracking comes into play.
+
+We have talked in the recursion blog that how our answer for permutation is getting wrong. 	Because in that problem we are not backtracking. Now here you can see the solution for the permutation.
 
 - Permutation
+In this problem you need to print all possible arrangement of a strings.
+
+- Base case : when i becomes 0
+- We will have loop to swap the element of a string for  first character
+- Recursively call the permutation for smaller problem
+- Again swap after doing our work, just to backtrack.
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -23,7 +36,7 @@ void permutation(char *arr, int i)
 	        permutation(arr, i+1);
             //once we come back we swap it again just to undo the changes because string is passed
 			// by reference it will effect all the character in the string
-	        swap(arr[i],arr[j]);//undo part so that you wont catch in the robbery
+	        swap(arr[i],arr[j]);//undo part so that                you wont catch in the robbery
 			                    // this is know as backtracking now it will give the correct answer.
 	   }
 }
@@ -33,7 +46,11 @@ int main(){
 	permutation(c, 0);
 }
 ```
+## Classic problem in Backtracking
 - RateInMaze
+
+This is a classic problem asked in many product based companies in coding interview. It has many variation we are talking here the number of ways a rat can go from (0,0) to (m-1, n-1).
+here is a trick if you will make true in 61 lines you will able to print only one solution.
 
 ```cpp
 #include<bits/stdc++.h>
@@ -76,77 +93,7 @@ int main() {
 	return 0;
 }
 ```
-- N-Queen
 
-```CPP
-#include<bits/stdc++.h>
-using namespace std;
-int count;
-bool safe( int chess[][11], int i, int j, int n){
-	//check wheather there is any queen in the (i'j)th
-	for(int k=0;k<n;k++){
-		if(chess[i][k]==1 || chess[k][j]==1){
-			return false;
-		}
-	}
-  
-  int l=i,m=j;
-  while(i>=0 && j<n){
-    if(chess[i][j]==1){
-    	return false;
-	}
-	i--;
-	j++;
-  }
-  
-  i=l,j=m;
-  while(i>=0 && j>=0){
-  	if(chess[i][j]==1){
-  		return false;
-	  }
-	  i--;
-	  j--;
-  }
-  return true;
-}
-bool Nqueen(int chess[][11], int i, int n ){
-	
-	//base case
-	if(i==n){
-		for(int i=0;i<n;i++){
-			for(int j=0;j<n;j++){
-				cout<<chess[i][j]<<" ";
-			}
-			cout<<endl;
-		}
-        cout<<endl;
-         
-		return  false;
-	}
-	//recursive case
-	for(int j=0;j<n;j++){
-	
-		if(safe(chess, i, j, n)){
-			chess[i][j]=1;
-			bool issolved = Nqueen(chess, i+1,n);
-			if(issolved){
-				return true;
-			}
-			else chess[i][j]=0; //backtrack
-		}	 
-		
-	}
-	
-	return false;
-}
-int main(){
-	int chess[11][11]={0};
-	int n;
-	cin>>n;
-	Nqueen(chess, 0, n);
- 
-}
-```
 - Suduko solver
 
 ```CPP
@@ -211,5 +158,7 @@ int main(){
 }
 ```
 
+- N-Queen problem 
 
+This problem has many variation and we are not discussing any of here I have made a saperate blog because this is the mostclassic and problem and classic problem including above three.
 

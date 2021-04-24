@@ -1,12 +1,14 @@
 ---
-title: Bit Masking 
+title: Bit Manipulation 
 date: "2021-01-07T22:11:03.214Z"
-description: "bit masking is really interesting topic it has many tricks and concept that you should know before going to solve any question from bitmasking , this is small recape for bitmasking "
+description: "Bit masking is really interesting topic it has many tricks and concept that you should know before going to solve any question of bitmasking, this is small recape for bitmasking "
 ---
+![Link](giannis-skarlatos-6AL5ong0mFQ-unsplash.jpg)
+
 
 [link to a tutorial](https://youtu.be/wEZfc6cPC4w)
 
-## binary operator
+## Binary Operators
 - & (and)
 
 - | (or)
@@ -15,36 +17,36 @@ description: "bit masking is really interesting topic it has many tricks and con
 
 - ^ (xor)
 
-- >> (right shift)
+- (>> right shift)
 
-- << (left shift)
-## why bitwise operator 
-- bitwi    se operator are  very fast
+- (<< left shift)
+## Why Bit Manipulation
+> [Youtube-Link](https://www.youtube.com/watch?v=JqxgC5zcdEw)
 
-- everything is in the form is in  bits
+- Bitwise operator are very fast
 
-- generally consist O(n) complexity
+- Everything is in the form is in  bits
+
+- Generally consist O(n) complexity
 
 - 
-## common bit task
+## Common Bit Task
 
 - Get ith Bit
 ```cpp
     return ((num & (1<<i))!=0);
-
 ```
 - Set ith Bit
+
 ```cpp
-
     return (num | (1<<i));
-
 ```
 
 - Clear ith Bit
+
 ```cpp
     int mask = ~(1<<i);
     return (num & mask)
-
 ```
 
 - Update ith  bit
@@ -52,10 +54,9 @@ description: "bit masking is really interesting topic it has many tricks and con
     int value = bitIs1 ? 1 : 0
     int mask = ~(1<<i);
     return (num & mask) | (value<<i;)
-
 ```
 
-## big fact and tricks 
+## Big fact and tricks 
 
 - left shit means multiplying a number by  (a<<b = a*(2^b))
 
@@ -72,9 +73,8 @@ description: "bit masking is really interesting topic it has many tricks and con
     a=a^b;
     b=b^a;
     a=a^b;
-
 ```
-- print subsequence
+- Print Subsequences
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -103,4 +103,3 @@ int main() {
 }
 
 ```
-- 
