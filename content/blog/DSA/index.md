@@ -8,24 +8,24 @@ description: "I have made a small blog which contain a tutorials, questions for 
 
 ## Introduction 
 
-There is lot of confusion between the competitive programming and DSA but let me tell you the difference first
-competitive programming improves your problem solving approach and implementation,
-It teaches you how to think?
+There is lot of confusion between the competitive programming and DSA, But let me tell you the difference first
+Competitive Programming improves your problem solving approach and implementation,
+It teaches you how to think?. By building your CP profile you are increasing your chance in resume sortlisting
 
-and by building your CP profile you are increasing your chance in resume sortlisting
-Data structure is something you learn about how to handle and organize the different data structure,
-how we can allocate different type of memory in different datastructure?
-Many student have the confusion that in company interview what they gonna ask so they will ask the data structure question
-and your competitive programming skills make you think to solve the problem related to data structure
-in this blog I will provide the best tracked  content so that you cannot search again and again 
+Data structure is something you learn about how to handle and organize the different data structure.
+How we can allocate different type of memory in different data structure?
+Many student have confusion that in company interview what they gonna ask so they will ask the data structure questionS
+and your competitive programming skills make you think to solve the problem related to data structure.
+In this blog, I will provide the best tracked content so that you don't have to search again and again. 
 
 ### In sort
 
 - CP = Resume sortlisting
 - DSA = coding  Interview 
 
-To learn these content dont pay 10k or any amount they'll just provide the same content in the ordered manner thats it 
-Dont spend to much time in thinking the solution and approach more that 30 minutes and if you think you be able to think the approach then try to code it but do not involve more then 1 hours  if you getting any error, just see the solution where and what mistake you are doing and if you dont able to think the approach dont be demotivated may be you does not spend much time in getting these concept you'll learn eventually  you guys dont know but i took whole day just to write hello world on hackerrank 1st problem and here i am now 
+For learning these content, Don't pay 10k or any amount they'll just provide the same content in the ordered manner.  
+
+Don't spend to much time in thinking the solution and approach more that 30 minutes and if you think you be able to think the approach then try to code it, but don't involve more then 1 hours  if you getting any error, just see the solution where and what mistake you are doing and if you dont able to think the approach dont be demotivate, may be you does not spend much time in getting these concept you'll learn eventually you guys don't know but I took whole day just to write hello world on hackerrank 1st problem and here I am now 
 
 ## Types of Data structure
 
@@ -41,14 +41,14 @@ Dont spend to much time in thinking the solution and approach more that 30 minut
 
 ### Non-Primitive data srtructure
 
-#### Linear(these are the data structure in which one element is connect to another in linear fashion)
-
+#### Linear
+These are the data structure in which one element is connect to another in linear fashion
 - Array
 - LinkedList
 - Stack and Queues
 
-#### Non-Linear(when one element is connected to 2 or more than 2 element )
-
+#### Non-Linear
+when one element is connected to 2 or more than 2 element 
 - Trees 
 - Graph  
 
