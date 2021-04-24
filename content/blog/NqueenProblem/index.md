@@ -6,6 +6,7 @@ I'll be explaining the variation of N queen in this blog"
 ---
 
 # Introduction
+![chess photo](steve-johnson-XQ9Gpng_hWM-unsplash.jpg)
 A video by prateek narang in which he has given a very good explaination about the N-QUEEN problem
 [link](https://www.youtube.com/watch?v=jFwREev_yvU)
 

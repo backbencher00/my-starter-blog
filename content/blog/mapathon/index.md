@@ -15,7 +15,6 @@ We have generated Different kind of layers Including Base data layer, Vector dat
 We have Extracted Data From Bhuvan-India geo-platform of ISRO
 We have build this map for Chandigarh, India
  
-## ## what is raster and vector layers ?
 
 ## Result of our work
 ![](chandigarhdrainagemap.png)
@@ -30,3 +29,5 @@ We have build this map for Chandigarh, India
 [geopanda](https://geopandas.org/)
 [Geemap](https://geemap.org/)
 You can also work on the maps with different python libraries apart from geopanda such as (skitlearn , matplotlib etc).
+
+- go and check the whole project at github [link](https://github.com/sourabhsingh282/IIT-Bombay-ISRO-Mapathon)

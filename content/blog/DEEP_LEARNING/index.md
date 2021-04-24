@@ -3,7 +3,7 @@ title: Deep neural network
 date: "2020-12-19T22:12:03.284Z"
 description: "We will be talking  about the mathematical foundation of deep neural network in deep learning  with numpy syntax for implementation of the mathematical function"
 ---
- Deep learning is a technique which 
+ Deep learning is a technique in  which 
 
 ## Scaler 
 

@@ -3,6 +3,7 @@ title: A day with Recursion
 date: "2021-02-16T22:11:03.214Z"
 description: "Watch the _Inception_ if you haven't watch it yet because this is something you need to watch before going to read this blog and my 90% work is done to make you understand what is recursion ? "
 ---
+![photos of recursion](talles-alves-HNiOq7eg8ck-unsplash.jpg)
  ### PMI (Principle of Mathematical Induction)
 Let's assume a function f(n)
 
