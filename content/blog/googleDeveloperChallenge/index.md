@@ -7,6 +7,7 @@ description: "A biggest hackathon organised by GOOGLE. In which students from th
 The 2021 Solution Challenge mission is to solve for one or more of the United Nations 17
 Sustainable Development Goals using Google technology.
 ![](un_goals_856.png)
+
 ## Solution Name
 HungryHome 
 
@@ -64,7 +65,7 @@ we took a survey in  which we targeted three kind of audience, and we talked the
 * Student are so much annoyed with hostel food they want a good home-made food 
 and now they  can get food from home with less or even for free.
  
-# Architecture
+## Architecture
 Technical components - Backend, Frontend, Technologies, Programming languages and Tools used.
 Description of architecture of our solution:
 We have taken care of the designing of this solution that  a person should place order in minimum number of clicks into the web application, We are trying to build the  best user interface for the local community .
@@ -72,7 +73,7 @@ We have integrated everything on google map. when a person open the application 
 He will be able to see in which house food is available on the google map,  he can just click  on the house location(specific latitude and longitude) to get food list and he can directly order from there.
 In all the process of ordering the food they do not have to go any other page they can add remove item and request food in the google map.
  
-# High-level components of our architecture:
+## High-level components of our architecture:
 We have used react router, google-map, google sign ins, firebase high-level component etc.
 
 React router used to manage the routes of web application. it managed all routes on every click.
@@ -89,7 +90,7 @@ Provider component which uses context API which is responsible to prevents the p
 - Adobe for initial design of UX of web application
 - Google cloud for google services
 
-In sort :
+>In sort :
 - Front End -(CSS, JavaScript, React) for designing and the functionality of the web app
 
 - Backend (firebase) for the hosting and the database management.
