@@ -3,29 +3,30 @@ title:  DSC solution challenge 2021
 date: "2021-03-12T22:11:03.214Z"
 description: "A biggest hackathon organised by GOOGLE. In which students from the globe take part and submit there solution for the real world challenges "
 ---
-# what is the challenge for 2021?
+
 The 2021 Solution Challenge mission is to solve for one or more of the United Nations 17
 Sustainable Development Goals using Google technology.
 ![](un_goals_856.png)
-# Solution Name
+## Solution Name
 HungryHome 
-# Which United Nations' Sustainable Development Goals (SDGs) is your solution solving for
+
+## Targeted UN Goals
 - Goal 1: No Poverty
 - Goal 2: Zero Hunger
 - Goal 3: Good Health & Wellbeing
 - Goal 4: Quality Education
 - Goal 5: Gender Equality and Women’s Empowerment
 - Goal 9: Industry, Innovation, & Infrastructure
-# Please select one or more products/platforms utilized in your solution
+## Technology Used in 
 - Firebase
 - Google Cloud Platform
 - React JS
 - Google Maps
 
-# YouTube demo link. showing a demonstration of  out working solution and how the user will interact with it.   
+## YouTube Demo Link
 https://youtu.be/e6UGMf8Wi_0
 
-# How does your solution address the challenge you are looking to solve for
+## The challenges we are trying to solve
 - We are Building an ecosystem where we do not have to sleep at night without  food.
 
 - The fact that over one-sixth of India is permanently hungry and malnourished feels troublesome. That is almost 190 million people who go to sleep hungry, on most days. Over one-third of the children under the age of five, show the prevalence of stunting.
@@ -36,7 +37,7 @@ https://youtu.be/e6UGMf8Wi_0
 
 - More than 18% of women in India are unemployed. So by this Project every Indian housewife can generate a small amount of income .
  
-# Our future plans / next steps for your project?.
+## Our future plans
 We are Planning to build a separate application for our newbie entrepreneurs so that they can directly register there and  add food they can manage to prepare to the menu. Then they can put minimal amount(there will be limit to the cost of food on menu) or they can put up the food for free on our app, so the volunteers could pick it from there and distribute to the people who need it.
 This is the YouTube video link of  design of our future work and we are working on it :
 
@@ -52,7 +53,7 @@ We will also teach the working of the application to each user so that they will
 
 
 
-#  The steps we took to test  our solution.  feedback points we received from people out your solution? *
+## Feedback points we received from people of our solution
 We have not tested our solution with the real audience because as of now this app still need time to come run but,
 we took a survey in  which we targeted three kind of audience, and we talked them and understand the problems and, I have also showed them our product. 
 1. Migrated people / marginalize /people of economic weaker section
@@ -63,7 +64,7 @@ we took a survey in  which we targeted three kind of audience, and we talked the
 * Student are so much annoyed with hostel food they want a good home-made food 
 and now they  can get food from home with less or even for free.
  
-# The architecture that  our team chose for  the solution and What is the responsibility of each component?  
+# Architecture
 Technical components - Backend, Frontend, Technologies, Programming languages and Tools used.
 Description of architecture of our solution:
 We have taken care of the designing of this solution that  a person should place order in minimum number of clicks into the web application, We are trying to build the  best user interface for the local community .
@@ -81,14 +82,14 @@ Google map is responsible for ordering food near your locations(specific latitud
 Google sign -ins plugins responsible in sign in directly by google account and after sign in credential store in firebase.
 
 Provider component which uses context API which is responsible to prevents the props drilling, it played a very vital role in all other component.
-# Specific products and platform that we used in building this application:
+## Products and platform that we used in building this application:
 
-VS Code, Adobe, google cloud platform.
-Vs code for writing the efficient code.
-Adobe for initial design of UX of web application
-Google cloud for google services
+>VS Code, Adobe, google cloud platform.
+- Vs code for writing the efficient code.
+- Adobe for initial design of UX of web application
+- Google cloud for google services
 
-In sort:
+In sort :
 - Front End -(CSS, JavaScript, React) for designing and the functionality of the web app
 
 - Backend (firebase) for the hosting and the database management.
@@ -97,6 +98,5 @@ In sort:
 
 - We have build our front-end with react JS and back-end is managed by firebase
 
-
-# Major challenge we faced while building  the code. 
+## Challenge we faced while building the code. 
 The major challenge that we have faced while building the code is to  connecting the google maps  into our react app and second challenge is to render the data from backend to the google map so the user can directly order from the google map they do not need to go anywhere else on web application
