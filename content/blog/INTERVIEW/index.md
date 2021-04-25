@@ -1,6 +1,6 @@
 ---
 title: Last week interview preparation
-date: "2021-03-12T22:11:03.214Z"
+date: "2021-04-23T22:11:03.214Z"
 description: "In this Blog I will provide you the best resources which will make you ready for the coding interview I think you all want to get placed in product based company so lets get started. !"
 ---
 ![photo of a dog with pc](cookie-the-pom-gySMaocSdqs-unsplash.jpg)

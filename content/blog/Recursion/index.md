@@ -1,6 +1,6 @@
 ---
 title: A day with Recursion
-date: "2021-02-16T22:11:03.214Z"
+date: "2020-09-10T22:11:03.214Z"
 description: "Watch the _Inception_ if you haven't watch it yet because this is something you need to watch before going to read this blog and my 90% work is done to make you understand what is recursion ? "
 ---
 ![photos of recursion](talles-alves-HNiOq7eg8ck-unsplash.jpg)
@@ -34,7 +34,7 @@ In simple terms :
 - Don't even try to find how things are working before getting the correct answer
  
 
-### Recursive program to print the number in ascending order
+#### Recursive program to print the number in ascending order
 ```cpp
    void f(int n){
 
@@ -43,7 +43,8 @@ In simple terms :
           return 1;
        }
 
-       // write the recursive expression and assume that it will solve the bigger problem
+       // write the recursive expression and
+       // assume that it will solve the bigger problem
        f(n-1)
 
        //solve the problem
@@ -87,7 +88,8 @@ Now that we are getting the correct answer, let's see how it is working and the 
 - At last, main will get destroyed from the stack memory
 
  
-# Common pattern question in recursion
+#### Common pattern question in recursion
+
 - subsequnce print
 ```cpp
 void subsequence(char *input, char *output, int i, int j){

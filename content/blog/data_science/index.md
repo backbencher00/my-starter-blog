@@ -1,6 +1,6 @@
 ---
 title: Starting with Data science
-date: "2020-12-11T22:12:03.284Z"
+date: "2019-01-11T22:12:03.284Z"
 description: "A interesting blog of how machine learning is helping itself inorder to make there task easy, this is the starting of my learning of data science and its capabilities"
 ---
 
