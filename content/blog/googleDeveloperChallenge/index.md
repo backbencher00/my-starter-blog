@@ -1,6 +1,6 @@
 ---
 title:  DSC solution challenge 2021
-date: "2021-03-12T22:11:03.214Z"
+date: "2021-04-20T22:11:03.214Z"
 description: "A biggest hackathon organised by GOOGLE. In which students from the globe take part and submit there solution for the real world challenges "
 ---
 

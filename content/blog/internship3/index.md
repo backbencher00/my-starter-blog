@@ -1,6 +1,6 @@
 ---
 title: SDE Intern at Innow8app
-date: "2021-03-12T22:11:03.214Z"
+date: "2020-12-12T22:11:03.214Z"
 description: "I was interned at INNOW8 app as a sde intern I ll be sharing the jiurney throughout my internship in this blog"
 ---
 ![photo](sigmund-zBfBXHCaLmk-unsplash.jpg)

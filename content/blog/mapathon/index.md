@@ -1,6 +1,6 @@
 ---
 title:  IITB-ISRO-AICTE MAPATHON
-date: "2021-03-12T22:11:03.214Z"
+date: "2021-02-12T22:11:03.214Z"
 description: " This is the blog of the mapathon and challenges of IIT bombay in which you can contribute and win the prices !"
 ---
 ## what is the mapathon
@@ -31,3 +31,5 @@ We have build this map for Chandigarh, India
 You can also work on the maps with different python libraries apart from geopanda such as (skitlearn , matplotlib etc).
 
 - go and check the whole project at github [link](https://github.com/sourabhsingh282/IIT-Bombay-ISRO-Mapathon)
+
+I have won Notable participants  Award for my work in this hackathon here is link of my [certificate](https://drive.google.com/file/d/1tXaM-GSSLGPGpLgGY-bvAzDWsK5_kUxN/view?usp=sharing)

@@ -1,6 +1,6 @@
 ---
 title:  My Deep Learning Intern experience at DIC
-date: "2020-09-12T22:10:03.214Z"
+date: "2019-07-12T22:10:03.214Z"
 description: " Design and Innovation Centre Panjab University is one of the 21 labs funded by MHRD , I was deep learning intern and this is the how i get started"
 ---
 ![A photo of deep learning](markus-spiske-iar-afB0QQw-unsplash.jpg)
