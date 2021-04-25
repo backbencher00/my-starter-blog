@@ -59,11 +59,8 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-             Follow Me on Twitter
-          </a><br/>
+          I write about algorithmic solutions for software engineering problems, interesting programming tips & tricks. May also include Machine Learning, Natural Language Processing and Blockchain.
+          <br/>
           <ul className="list">
           <a className="l1" href="https://www.linkedin.com/in/sourabhsingh282/"><LinkedInIcon/></a>
             <a className="l1" href="https://www.codechef.com/users/sourabhsingh28"><ClosedCaptionIcon/></a>
