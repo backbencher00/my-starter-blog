@@ -6,6 +6,10 @@ description: "Bit masking is really interesting topic it has many tricks and con
 ![Link](giannis-skarlatos-6AL5ong0mFQ-unsplash.jpg)
 
 
+Bit manipulation is the act to algorithmetically manipulate the bits of decimal numbers, In order to increase the efficiency of the program.
+
+Sometimes you will find that program will become less sorter and much more effifcient after applying bit manipualtion. There are many tricks and concept to manipulate the bits which we'll talk about In this section, Here is a link of youtube video webinar by prateek narang you can go throught it to make you confortable.
+
 [link to a tutorial](https://youtu.be/wEZfc6cPC4w)
 
 ## Binary Operators
@@ -20,6 +24,7 @@ description: "Bit masking is really interesting topic it has many tricks and con
 - (>> right shift)
 
 - (<< left shift)
+
 ## Why Bit Manipulation
 > [Youtube-Link](https://www.youtube.com/watch?v=JqxgC5zcdEw)
 
@@ -29,7 +34,6 @@ description: "Bit masking is really interesting topic it has many tricks and con
 
 - Generally consist O(n) complexity
 
-- 
 ## Common Bit Task
 
 - Get ith Bit
