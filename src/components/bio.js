@@ -6,8 +6,14 @@
  */
 
 import React from "react"
+import './muiicon.css'
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import GitHubIcon from '@material-ui/icons/GitHub';
+import InstagramIcon from '@material-ui/icons/Instagram';
+import MailIcon from '@material-ui/icons/Mail';
+import ClosedCaptionIcon from '@material-ui/icons/ClosedCaption';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -58,13 +64,14 @@ const Bio = () => {
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
              Follow Me on Twitter
           </a><br/>
-          <ul>
-            <li>Github</li>
-            <li>LinkedIn</li>
-            <li>Hackerrank</li>
-            <li>Codechef</li>
-            <li>Gmail</li>
-            <li>GFG</li>
+          <ul className="list">
+          <a className="l1" href="https://www.linkedin.com/in/sourabhsingh282/"><LinkedInIcon/></a>
+            <a className="l1" href="https://www.codechef.com/users/sourabhsingh28"><ClosedCaptionIcon/></a>
+
+            <a className="l1" href="https://github.com/sourabhsingh282"><GitHubIcon/></a>
+            <a className="l1" href="https://www.instagram.com/sourabhsingh282/"><InstagramIcon/></a>
+            {/* <MailIcon/><span>sourabhsingh282@gmail.com</span> */}
+
           </ul>
         </p>
       )}
