@@ -15,14 +15,12 @@ I came across the post saying there is an opening for deep learning interns at [
 
 As part of my internship, I worked on the CNN neural Networks, performed denoising with the help of autoencoders with LSTM layers and segmentation with double-Unet for the project of prediction and classification of pancreatic cancer of dicom images. Apart from that, our team has converted dicom images into png files.
 
-Apart from the technical skills, working together as a team on a particular project has really improved by soft skills as I was able to:
+>Apart from the technical skills, working together as a team on a particular project has really improved by soft skills as I was able to:
 
 * Communicate my ideas in clear terms with my team
 * Collaborate with the team to uncover creative ideas and share different perspectives and experiences on tasks
 * Apply the concepts learnt to find answers to problems and formulate workable solutions
 * Accommodate my team’s needs as the Query Analyst by relaying queries from my team to Hamoye.
-
-The open-source projects did not only improve my skill set, but also served as a demo for real world job experience.
 
 ## After internship status
 
