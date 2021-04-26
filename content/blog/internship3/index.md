@@ -7,7 +7,7 @@ description: "I was interned at INNOW8 app as a sde intern I ll be sharing the j
 
 ## How it all started?
 
-I came across the post on internshala, opening for data science Intern in [ CSIR-CDRI](https://cdri.res.in/) where we will be working directly under the senior data scientist, just finished the my data science course so I was very eager to apply my learnings on the wide project.  
+I came across the post on internshala, opening for data science Intern in [CSIR-CDRI](https://cdri.res.in/) where we will be working directly under the senior data scientist, just finished the my data science course so I was very eager to apply my learnings on the wide project.  
 For acceptance accessment they give me task to scrap the data from different website, to test my ability for the intership
 
 ## Learnings from the experience
