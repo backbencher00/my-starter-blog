@@ -1,5 +1,5 @@
 ---
-title: Research Intern 
+title: Research Intern - Remote
 date: "2019-04-10T22:11:03.214Z"
 description: "I worked as a Research Intern Under CRDI scientist, in which I have scrapped the data of different cells with the help of python library(beautiful soap and selenium), worked In image processing with openCV and  Pillow/PIL, performed Feature Engineering of medical dataset of different cells  And Involved in multiple research papers of medical science."
 ---
@@ -20,8 +20,6 @@ Apart from the technical skills, working together as a team on a particular proj
 * Collaborate with the team to uncover creative ideas and share different perspectives and experiences on tasks
 * Apply the concepts learnt to find answers to problems and formulate workable solutions
 * Accommodate my team’s needs as the Query Analyst by relaying queries from my team to Hamoye.
-
-The open-source projects did not only improve my skill set, but also served as a demo for real world job experience.
 
 ## After internship status
 
