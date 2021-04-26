@@ -1,6 +1,6 @@
 ---
 title: Backtracking
-date: "2020-09-13T22:11:03.214Z"
+date: "2020-02-13T22:11:03.214Z"
 description: "When you go in a house for robbery and you opened lockers to rob, then while return you have to close all the locker so that no one can trace that you theft and this thing is known as backtracking.
 In simple word while returning from robbery he will undo all the things!"
 ---
