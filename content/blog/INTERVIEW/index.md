@@ -20,6 +20,10 @@ It can be ordered from Amazon and is also easily available in the market. This i
 
 >[Company-wise list of questions of Top Companies](https://github.com/twowaits/SDE-Interview-Questions)
 
+>[Hackerrank-Interview-Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+
+>[Hackerearth-Interview-Kit](https://www.hackerearth.com/practice/interviews/)
+
 All product based companies ask similar questions which are generally repeated by the same or different company. So, it is recommended to go through all the questions provided on the youtube link.
 
 Also go through [Tech Dose](https://www.youtube.com/c/TECHDOSE4u/featured) channel. The guy in the channel has an excellent way of explaining the approach to a problem.
